@@ -53,11 +53,15 @@ h1 span:nth-child(5):after {
   }
 }
 
+h2,
+h3 {
+  font-size: 4rem;
+  font-style: normal;
+  font-weight: 300;
+}
+
 h2 {
   color: #332121;
-  font-style: normal;
-  font-size: 4rem;
-  font-weight: 300;
   margin: 0 0 4rem;
 }
 
@@ -69,9 +73,6 @@ h2 {
 
 h3 {
   color: #665757;
-  font-style: normal;
-  font-size: 4rem;
-  font-weight: 300;
   margin: 3rem 0;
 }
 
